@@ -1,6 +1,6 @@
 # KSAProject
 
-## MNIST
+## [1차 수행평가] MNIST
 - KNN
 - Naive Bayes
-## UCI Credit Card
+## [2차 수행평가] UCI Credit Card
