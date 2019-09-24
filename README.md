@@ -5,4 +5,5 @@
 - Naive Bayes
 ## [2차 수행평가] UCI Credit Card
 - Decision Tree
-- 
+- SVM
+- Random Forest
