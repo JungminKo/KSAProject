@@ -7,3 +7,4 @@
 - Decision Tree
 - SVM
 - Random Forest
+- AdaBoost
