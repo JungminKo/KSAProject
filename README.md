@@ -9,5 +9,5 @@
 - CH8. 비지니스 문제 비정형
 - CH9. 딥러닝 기반 
 
-[1차 수행] mnist 연습
-[2차 수행] UCI credit card 예측
+- [1차 수행] mnist 연습
+- [2차 수행] UCI credit card 예측
